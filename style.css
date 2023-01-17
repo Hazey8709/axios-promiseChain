@@ -1,0 +1,21 @@
+/*!    CSS Page    */
+
+#returnDataHome {
+    text-align: center;
+    margin-top: 5px;
+    border: 1px solid blue;
+    color: blue;
+}
+
+#returnDataLuke {
+    text-align: center;
+    margin-top: 5px;
+    border: 1px solid green;
+    color: green;
+}
+
+#returnDataPlanets {
+    text-align: center;
+    border: 1px solid black;
+    color: black;
+}
